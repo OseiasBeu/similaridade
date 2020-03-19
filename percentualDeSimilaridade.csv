@@ -1,0 +1,7 @@
+nome_hf1,cargo_hf1,hierarquia_hf1,concate_hf1,nome_hf2,cargo_hf2,hierarquia_hf2,concate_hf2,percentual_comparacao_exata,percentual_comparacao_aproximado,percentual_comparacao_ordenacao
+Batman,Batman,1,Batman1Batman,Batman,Batman,1,Batman1Batman,100,100,100
+Superman,Escoteiro Azul,2,Superman2Escoteiro Azul,Superman,Escoteiro Azul,3,Superman3Escoteiro Azul,96,96,96
+Flash,Velocista,3,Flash3Velocista,Flash,Velocista,2,Flash2Velocista,93,93,93
+Goku,Guerreiro,4,Goku4Guerreiro,Goku,Guerreiro,4,Goku4Guerreiro,100,100,100
+Ichigo,Chinigami,5,Ichigo5Chinigami,Ichigo,Chinigami,5,Ichigo5Chinigami,100,100,100
+Kenpachi,Kenpachi,6,Kenpachi6Kenpachi,Kenpachi,Kenpachi,6,Kenpachi6Kenpachi,100,100,100
